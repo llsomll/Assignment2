@@ -1,0 +1,29 @@
+.box {
+    border: 50px solid #e74c3c;
+    width: 200px;
+    padding: 50px;
+    margin-top: 20px;
+}
+
+.green {
+    border: 50px solid #1abc9c;
+    /* visibility: hidden; */
+    /* display: none; */
+}
+
+.blue {
+    border: 50px solid #3498db;
+}
+
+div {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: grey;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-color: ivory;
+}
